@@ -8,7 +8,7 @@ export default component$(() => {
   return (
     <footer>
       <div class="container">
-        <p>
+        <p style={{ textAlign: "center" }}>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus ipsam
           explicabo, harum sequi distinctio repudiandae obcaecati cupiditate
           praesentium officia cum? Neque accusantium repellat deserunt
