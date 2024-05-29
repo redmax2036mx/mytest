@@ -16,6 +16,10 @@
   padding: 0 15px;
 }
 
+center{
+  text-align: "center";
+}
+
 @media screen and (min-width: 768px) {
   .anchor span {
     display: inline !important;
